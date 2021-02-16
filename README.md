@@ -33,6 +33,10 @@ For this project, I was interestested in using Stack Overflow data from 2019 & 2
 ## Medium Blog Post
 Here is the Medium blog post I have written: https://medium.com/@guillaume.verbiguie/does-money-make-you-happy-it-would-appear-so-according-to-the-last-two-stackoverflow-surveys-65c680f27f8b
 
+## Files in the repository
+- README.md
+- Stack.ipynb where there is the whole project
+
 ## Acknowledgements
 Thanks to Stack Overflow for providing the dataset:Stack Over Flow Annual Developer Survey
 
