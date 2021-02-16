@@ -31,7 +31,7 @@ For this project, I was interestested in using Stack Overflow data from 2019 & 2
     5. Is it money or satisfaction that sets North America apart from other parts of the world?
 
 ## Medium Blog Post
-Here is the Medium blog post I have written: https://medium.com/@emrebilgehangedik/seattle-airbnb-listings-analysis-d88c839596f8
+Here is the Medium blog post I have written: https://medium.com/@guillaume.verbiguie/does-money-make-you-happy-it-would-appear-so-according-to-the-last-two-stackoverflow-surveys-65c680f27f8b
 
 ## Acknowledgements
 Thanks to Stack Overflow for providing the dataset:Stack Over Flow Annual Developer Survey
